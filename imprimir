@@ -2,6 +2,6 @@ Sub Imprimir()
 
 Planilha1.PageSetup.PrintArea = "$A$1:$f$33"
 
-Planilha1.PrintOut copies:=1
+Planilha1.PrintOut copies:=1, Printtofile:=True, prtofilename:=Range("c4")
 
 End Sub
