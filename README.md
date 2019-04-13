@@ -1,2 +1,2 @@
 # remuneracao-mensal-total
-codigos emVBA para aotumatização do envio da Remuneração Mensal Total para os colaboradores da Pris
+codigos em VBA para automatização do envio da Remuneração Mensal Total para os colaboradores da Pris
